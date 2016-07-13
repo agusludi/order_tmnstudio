@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<configuration date="2016/06/28" author="e.World Technology Ltd.">
+<project id="{5641CEBD-AA62-4C55-9718-A8075144C930}" file="C:\Users\Tokoteknologi\OneDrive\TMN Studio\2_Web Design\WEB TMNStudio.com\order\tmnstudio_order.pmp" name="tmnstudio_order" product="PHPMaker" version="12.0" datetime="2016/06/28 14:32:52" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+<table id="desain" name="desain" caption="desain" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="user" name="user" caption="user" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="0"/>
+<table id="status_order" name="status_order" caption="status order" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="0"/>
+<table id="userlevelpermissions" name="userlevelpermissions" caption="userlevelpermissions" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="0"/>
+<table id="userlevels" name="userlevels" caption="userlevels" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="0"/>
+</project></configuration>

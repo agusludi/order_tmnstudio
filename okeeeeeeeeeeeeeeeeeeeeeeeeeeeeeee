@@ -1,0 +1,45 @@
+#include <iostream>
+#include <conio.h>
+using namespace std;
+int main ()
+{
+	int jumlah;
+	cout<<" MASUKKAN JUMLAH DATA : ";
+	cin>>jumlah;
+	
+	int x,y[jumlah];
+	for(x=0;x<jumlah;x++)
+	{
+	cout<<" Data ke "<< (x+1) <<"\t : ";
+	cin>>y[x];
+}
+	int a,b,l,data;
+	for(a=1;a<jumlah;a++)	
+	{
+		for(b=0;b<jumlah-a;b++)	
+		{
+			if(y[b]>y[b+1])
+			{
+				data=y[b];
+				y[b]=y[b+1];
+				y[b+1]=data;
+					}
+				}
+			}
+	cout<<endl<<" Hasil Urutan Data Dari Terkecil Sampai Terbesar : ";
+	for(x=0;x<jumlah;x++)
+	{
+	cout<<" "<< y[x];
+	{
+	 cout<<"ingin mencoba kembali lagi/kembali ke menu ?\t";cin>>l;
+   if(l=='Y'||l=='y')
+}
+ 	 {
+ 	 goto atas;
+ 	 }
+  if (else)
+ 	 {
+ 	 goto end;
+ 	 }
+return 0;
+}
